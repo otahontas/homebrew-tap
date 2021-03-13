@@ -5,7 +5,7 @@ Some programs I use and prefer installing via homebrew. Might try to add these t
 
 ## How do I install these formulae?
 
-`brew install otahontas/tap/<formula>` or `brew install -- cask otahontas/tap/<cask>`.
+`brew install otahontas/tap/<formula>` / `brew install --cask otahontas/tap/<cask>`.
 
 Or `brew tap otahontas/tap` and then `brew install <formula>` /
 `brew install --cask <cask>`.
