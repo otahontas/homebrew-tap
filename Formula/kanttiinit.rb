@@ -3,8 +3,6 @@ class Kanttiinit < Formula
   homepage "https://github.com/Kanttiinit/cli"
   head "https://github.com/Kanttiinit/cli.git"
 
-  bottle :unneeded
-
   def install
     system "make"
     bin.install "kanttiinit"
